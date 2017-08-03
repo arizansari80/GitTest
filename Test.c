@@ -6,6 +6,6 @@
 #define endl printf("\n")
 
 int main(int argc,char **argv){
-	
+	printf("This is test\n");
 	return 0;
 }
